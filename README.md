@@ -16,7 +16,7 @@
 
 ## Instalace
 
-1. Stáhněte si *Finished Files* z tohoto repozitáře
+1. Stáhněte si [*Finished Files*](https://github.com/JiriSuster/Czech-Dubbing-For-Outer-Wilds/archive/refs/heads/main.zip) z tohoto repozitáře
 2. Nainstalujte [outer wilds mod manager](https://outerwildsmods.com/mod-manager/).
 3. Nainstalujte [Voice Acting Mod](https://outerwildsmods.com/mods/voiceactingmod/), popř [Czech Localization](https://outerwildsmods.com/mods/czechlocalization/) mod (pro české titulky).
 4. Kliknětě na 3 tečky u voice acting modu a přejděte do složky s módem.
